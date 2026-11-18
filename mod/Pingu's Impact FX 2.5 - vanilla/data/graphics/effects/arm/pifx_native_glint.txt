@@ -1,0 +1,7 @@
+additive=true;
+randomlife=0.1;
+randomIntensity=0.3;
+contrast=true;
+minopacity=0;
+amplitude=0.3;
+texture="n_hitflash.dds";

@@ -1,0 +1,8 @@
+additive=false;
+randomlife=0.12;
+randomIntensity=0.12;
+contrast=false;
+minopacity=0;
+amplitude=0.09;
+samples=3;
+texture="pifx_hit_wisp13.dds";

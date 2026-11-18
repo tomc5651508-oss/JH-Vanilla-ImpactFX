@@ -1,0 +1,7 @@
+additive=true;
+randomlife=0.3;
+randomIntensity=0.4;
+contrast=true;
+minopacity=0;
+amplitude=0.3;
+texture="pifx_blast25a.dds";

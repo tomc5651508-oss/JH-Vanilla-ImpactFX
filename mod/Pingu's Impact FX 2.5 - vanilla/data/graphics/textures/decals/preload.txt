@@ -1,0 +1,21 @@
+texture="graphics\textures\Decals\Decals_Bullets_0_2.dds"
+texture="graphics\textures\Decals\Decals_BulletsLrg_1_4.dds"
+texture="graphics\textures\Decals\Decals_Shells_2_4.dds"
+texture="graphics\textures\Decals\Decals_ShellsHE_3_2.dds"
+texture="graphics\textures\Decals\Decals_test_4_2.dds"
+
+parallax=0,	0,1						//Texture ID, CellID_0 [,CellID_n] (turns on pseudo-3D parallax feature for particular cells)
+parallax=1,	0,1,2,3,4,5,15
+parallax=2,	0,1,2,3,4,5,6,7,10,15
+parallax=3,	0,1,2,3
+parallax=4,	0,1,2,3,4,5
+
+rigid=1,	4,5,15					//Texture ID, CellID_0 [,CellID_n] (turns off decal skewing by hit-angle for particular cells)
+rigid=2,	3,7,10,11,12,15
+rigid=3,	0,1,2,3
+// Pingu Impact FX: independent flat soot atlas, no parallax.
+texture="graphics\textures\Decals\PIFX_Scorch_15_2.dds"
+rigid=15,0,1,2,3
+// Pingu Impact FX 2.3: torn skin panels at heavy hits (own art), flat, never skewed by hit angle.
+texture="graphics\textures\Decals\PIFX_Torn_14_4.dds"
+rigid=14,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15

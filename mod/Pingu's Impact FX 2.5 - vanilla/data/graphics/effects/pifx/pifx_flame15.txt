@@ -1,0 +1,8 @@
+additive=true;
+randomlife=0.18;
+randomIntensity=0.15;
+contrast=false;
+minopacity=0;
+amplitude=0.42;
+samples=0.5;
+texture="n_flamepetrol_02.dds";

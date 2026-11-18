@@ -1,0 +1,13 @@
+additive=false;
+
+randomlife=0.7;
+
+randomIntensity=0.4;
+
+contrast=false;
+
+minopacity=0;
+
+amplitude=0.2;
+
+texture="smoke_volume.tga";

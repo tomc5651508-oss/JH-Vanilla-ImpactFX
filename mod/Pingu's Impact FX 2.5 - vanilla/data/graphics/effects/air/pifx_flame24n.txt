@@ -1,0 +1,7 @@
+additive=true;
+randomlife=0.7;
+randomintensity=0.6;
+contrast=true;
+minopacity=0;
+amplitude=1;
+texture="pifx_flame24a.dds";

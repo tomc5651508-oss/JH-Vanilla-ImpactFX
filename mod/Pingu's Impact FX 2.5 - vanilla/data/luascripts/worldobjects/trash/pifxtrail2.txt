@@ -1,0 +1,10 @@
+class_name = "CBatchFreeEffect"
+
+// Pingu's Smoke Hits trail 2: an invisible helper whose hook nodes _58312.._58317 play the smokehits effects
+// (luascripts\hookargs.txt). The smokehits plugin moves it with the plane / fragment every frame.
+VisualImage=0,"graphics\effects\pifx\pifx_trail2.mgm",false
+ImageAttrs="IA_NOMINPIXELS","IA_NOCLIP"
+visualradius=20
+SoundScript=""
+
+InitDestroyDelay=2	//silent at argument zero; only existing short-lived particles may fade

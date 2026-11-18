@@ -1,0 +1,13 @@
+additive=true;
+
+randomlife=0.1;
+
+randomintensity=0.25;
+
+contrast=true;
+
+minopacity=0;
+
+amplitude=1;
+
+texture="N_FlamePetrol_02.tga";

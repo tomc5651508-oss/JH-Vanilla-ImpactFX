@@ -1,0 +1,5 @@
+TrailLife=0.18,0.035,1;
+TrailTexture="pifx_hit_ribbon13.dds";
+TileSize=32;
+Trailminspeed=1;
+minopacity=0;

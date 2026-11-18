@@ -1,0 +1,7 @@
+additive=false;
+randomlife=0.6;
+randomIntensity=0.5;
+contrast=false;
+minopacity=0;
+amplitude=0.2;
+texture="N_WhiteSmoke9.tga";

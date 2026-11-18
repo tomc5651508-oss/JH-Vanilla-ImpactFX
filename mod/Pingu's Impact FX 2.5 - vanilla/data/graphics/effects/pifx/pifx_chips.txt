@@ -1,0 +1,7 @@
+additive=false;
+randomlife=0.25;
+randomIntensity=0.5;
+contrast=false;
+minopacity=0;
+amplitude=0.5;
+texture="n_hitsmallshellfrag.dds";

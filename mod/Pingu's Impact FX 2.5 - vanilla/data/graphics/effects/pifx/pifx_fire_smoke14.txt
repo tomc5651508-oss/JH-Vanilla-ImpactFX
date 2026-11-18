@@ -1,0 +1,8 @@
+additive=false;
+randomlife=0.12;
+randomIntensity=0.12;
+contrast=false;
+minopacity=0;
+amplitude=0.10;
+samples=1;
+texture="smoke_volume.dds";
