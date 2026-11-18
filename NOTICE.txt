@@ -1,2 +1,2 @@
-GB Mod Loader (bin/game/winmm.dll): Dusty. Redistribution terms to be confirmed with Dusty before this repo goes public.
+GB Mod Loader (bin/game/winmm.dll): Dusty. Redistributed with Dusty's permission.
 No War Thunder assets.
