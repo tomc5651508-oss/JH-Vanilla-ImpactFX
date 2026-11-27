@@ -1,0 +1,8 @@
+additive=true;
+randomlife=.38;
+randomintensity=.62;
+contrast=true;
+minopacity=0;
+amplitude=.2;
+samples=.5;
+texture="N_Sparks.dds";

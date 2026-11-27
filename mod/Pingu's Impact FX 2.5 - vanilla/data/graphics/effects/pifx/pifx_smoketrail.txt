@@ -1,0 +1,10 @@
+
+TrailLife=14;
+TrailTexture="N_Smoke-TrailDark.tga";
+
+TileSize=768;
+
+Trailminspeed=5;
+
+minopacity=0;
+

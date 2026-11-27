@@ -1,0 +1,8 @@
+additive=true;
+randomlife=.14;
+randomintensity=.11;
+contrast=false;
+minopacity=0;
+amplitude=1;
+samples=.5;
+texture="pifx_radialflow03.dds";

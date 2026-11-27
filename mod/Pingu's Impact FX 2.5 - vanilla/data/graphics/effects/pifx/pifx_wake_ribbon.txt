@@ -1,0 +1,5 @@
+TrailLife=1.6;
+TrailTexture="N_PetrolTrail.tga";
+TileSize=175;
+Trailminspeed=5;
+minopacity=0;

@@ -1,0 +1,10 @@
+additive=true;
+randomlife=true;
+contrast=false;
+minopacity=0;
+amplitude=1;
+texture="null.dds";
+TrailLife=0.016,0.005,2;
+TrailTexture="pifx_lamhot.dds";
+TileSize=3;
+Trailminspeed=0.1;

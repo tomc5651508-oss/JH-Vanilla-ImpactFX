@@ -2576,3 +2576,73 @@
 	player="graphics\effects\pifx\fire_engulf21_source.epl"
 	hook=58339
 [end]
+
+[effect=58340]
+	player="graphics\effects\pifx\wake_blend.epl"
+	hook=58336
+[end]
+
+[effect=58341]
+	player="graphics\effects\pifx\fire_engine_flow.epl"
+	hook=58333
+[end]
+
+[effect=58342]
+	player="graphics\effects\pifx\fire_fuel_flow.epl"
+	hook=58333
+[end]
+
+[effect=58343]
+	player="graphics\effects\pifx\fire_radial_baked.epl"
+	hook=58336
+[end]
+
+[effect=58344]
+	player="graphics\effects\pifx\fire_radial_baked_unlit.epl"
+	hook=58336
+[end]
+
+[effect=58345]
+	player="graphics\effects\pifx\fire_inline_baked.epl"
+	hook=58336
+[end]
+
+[effect=58346]
+	player="graphics\effects\pifx\fire_inline_baked_unlit.epl"
+	hook=58336
+[end]
+
+[effect=58347]
+	player="graphics\effects\pifx\engine_exhaust_heat.epl"
+	hook=58336
+[end]
+
+[effect=58348]
+	player="graphics\effects\pifx\fire_cowl_0.epl"
+	hook=58336
+[end]
+
+[effect=58349]
+	player="graphics\effects\pifx\fire_cowl_1.epl"
+	hook=58336
+[end]
+
+[effect=58350]
+	player="graphics\effects\pifx\fire_cowl_2.epl"
+	hook=58336
+[end]
+
+[effect=58351]
+	player="graphics\effects\pifx\fire_cowl_3.epl"
+	hook=58336
+[end]
+
+[effect=58352]
+	player="graphics\effects\pifx\fire_cowl_4.epl"
+	hook=58336
+[end]
+
+[effect=58353]
+	player="graphics\effects\pifx\fire_wing_leading_edge.epl"
+	hook=58336
+[end]

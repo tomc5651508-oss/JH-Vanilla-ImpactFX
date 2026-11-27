@@ -1,0 +1,8 @@
+additive=true;
+randomlife=.12;
+randomintensity=.14;
+contrast=false;
+minopacity=0;
+amplitude=1;
+samples=.5;
+texture="pifx_ringfilm.dds";
