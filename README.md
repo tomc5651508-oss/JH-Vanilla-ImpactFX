@@ -1,4 +1,4 @@
-# Pingu's Impact FX 2.6.54 - vanilla
+# Pingu's Impact FX 2.6.56 - vanilla
 Fire, smoke and hit effects for stock IL-2 Great Battles, game build 20261124. Jungle Hawks has Impact FX built in: do not use this pack with Jungle Hawks.
 
 Install: JH-Installer puts the pack in MODS. Enable it in JSGME. The folder name stays "Pingu's Impact FX 2.5 - vanilla" so the installer finds it.

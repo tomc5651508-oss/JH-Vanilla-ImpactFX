@@ -1,4 +1,4 @@
-Pingu's Impact FX 2.6.54 - vanilla
+Pingu's Impact FX 2.6.56 - vanilla
 For stock IL-2 Great Battles, game build 20261124 (25 Nov 2026). Jungle Hawks has Impact FX built in: do not use this pack with Jungle Hawks.
 
 Install
@@ -6,11 +6,16 @@ Install
 - With 'Pingus Better BoX AI 2 - vanilla' too: enable both packs, then enable 'Pingu's vanilla AI + FX - loader list' last. Its gbml.ini lists both plugins.
 
 Contents
-- bin/game/gbml/impactfx.dll: Impact FX 2.6.54.
+- bin/game/gbml/impactfx.dll: Impact FX 2.6.56.
 - bin/game/gbml/impactfx.ini: settings. Test switches laminar_test and scorch_test are 0.
 - bin/game/winmm.dll, GBML.dll, gbml.ini: GB Mod Loader 1.6.0 by Dusty.
 - data/graphics/effects (pifx, air, arm, surf) and data/graphics/textures (particles, decals): the effect files.
 - data/luascripts/hookargs.txt: the stock hook list plus the Impact FX effect entries 58340-58353.
+
+Changes in 2.6.56
+- Fire smoke at speed: one continuous trail instead of a chain of separate puffs.
+- Sparks: fewer and smaller, at the flame/smoke edge around the engine fire.
+- Close-flame distance check uses the real camera position.
 
 Changes since 2.5.1
 - Engine fire: flame ring at the cowling of radial engines, inline and underside engine flames, exhaust heat haze.
